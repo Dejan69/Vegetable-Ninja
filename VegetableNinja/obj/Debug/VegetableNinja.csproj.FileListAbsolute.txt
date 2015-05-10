@@ -1,0 +1,11 @@
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\bin\Debug\VegetableNinja.exe.config
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\bin\Debug\VegetableNinja.exe
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\bin\Debug\VegetableNinja.pdb
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.csprojResolveAssemblyReference.cache
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.GameOver.resources
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.Igra.resources
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.Properties.Resources.resources
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.csproj.GenerateResource.Cache
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.exe
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.pdb
+c:\users\dejan\documents\visual studio 2012\Projects\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.StartScreen.resources
