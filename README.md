@@ -38,8 +38,8 @@ MADE BY:
 
 
 Главен Екран со вклучени информации:
-<img src="http://i.imgur.com/JkReSDu.jpg" />
+<img src="http://i.imgur.com/JkReSDu.jpg" /><br>
 Gameplay Екран:
-<img src="http://i.imgur.com/H6AA44Q.jpg" />
+<img src="http://i.imgur.com/H6AA44Q.jpg" /><br>
 GameOver Екран:<br>
 <img src="http://i.imgur.com/lsOeFKj.jpg" />
